@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Let's see");
         Person p = new Person("Ahmet");
         p.greeting();
+
+        System.out.println("OLDIIUU mu ");
     }
 }
